@@ -34,31 +34,41 @@
 }
 
 #seccion1 {
+    height: 30%;
+    border: 2px solid #68531e;
+    background-color: #b01a1c;
     
 }
 
 #contenedor-seccion1 {
-    
+    margin-top: 3em;
+    display: flex;
 }
 
 #contenedor-seccion2 {
-    
+    margin-top: 3em;
+    display: flex;
 }
 
 #contenedor-seccion2 p {
-    
+    margin: 0 2em;
+    text-align: justify;
 }
 
 #contenedor-seccion2 img {
-    
+    margin-left: 1em;
 }
 
 #seccion1 p {
-    
+    text-align: justify;
+    width: 56%;
+    margin: 0 2em;
 }
 
 #seccion2 {
-    
+    height: 30%;
+    border: 2px solid #68531e;
+    background-color: #dcc43c;
 }
 
 #pieNavegacion {
